@@ -1,0 +1,9 @@
+[project]
+name = "tk-deck-builder"
+version = "0.1.0"
+description = "GUI deckbuilder for Magic: The Gathering"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ijson>=3.4.0",
+]
