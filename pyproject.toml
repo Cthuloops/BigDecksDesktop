@@ -1,5 +1,5 @@
 [project]
-name = "tk-deck-builder"
+name = "BigDecksDesktop"
 version = "0.1.0"
 description = "GUI deckbuilder for Magic: The Gathering"
 readme = "README.md"

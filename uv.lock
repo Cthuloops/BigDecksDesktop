@@ -33,7 +33,7 @@ wheels = [
 ]
 
 [[package]]
-name = "tk-deck-builder"
+name = "BigDecksDesktop"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
